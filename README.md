@@ -7,3 +7,4 @@ Assignment 4: Loops and User input<br />
 Assignment 5: Stacks and Functions<br />
 Assignment 6: Arithmetic Operations Using Loops<br />
 Assignment 7: Exception Handler<br />
+Assignment 8: Pipelining While Avoiding Hazards<br />
